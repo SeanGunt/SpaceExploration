@@ -47,7 +47,6 @@ public class ShuttleController : MonoBehaviour
         bgAudio.volume = 0.05f;
         explosionSource.volume = 0.10f;
         startText.SetActive(true);
-        
     }
 
     void Update()
